@@ -1,4 +1,4 @@
-```markdown
+
 # Transformers Interactive Attention Mechanism Explorer
 
 ## Installation
@@ -16,4 +16,4 @@ cd frontend
 npm install
 npm run dev
 ```
-```
+
