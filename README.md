@@ -1,12 +1,12 @@
 #Transformers
-#installation
-##backend
+#Installation
+#backend
 ```
 cd backend
 pip install -r requiremnts.txt
 python apppy
 ```
-##front end
+#front end
 ```
 npm i
 npm run dev
