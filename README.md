@@ -1,13 +1,19 @@
-#Transformers
-#Installation
-#backend
-```
+```markdown
+# Transformers Interactive Attention Mechanism Explorer
+
+## Installation
+
+### Backend
+```bash
 cd backend
-pip install -r requiremnts.txt
-python apppy
+pip install -r requirements.txt
+python app.py
 ```
-#front end
-```
-npm i
+
+### Frontend
+```bash
+cd frontend
+npm install
 npm run dev
+```
 ```
